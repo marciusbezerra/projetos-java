@@ -1,0 +1,32 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "HelloInternet"
+JDKPROFILE := ""
+ACTIVE := "0"
+OUTPUTPATH := "..\\\\HelloInternet"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "" RUNAPPLET := "" PARAM := "" RUN := "Princ" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "\\HelloInternet.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Circulo.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Principal.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Exercicio1.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Contador.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Ponto.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Princ.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Trava.java" #[EndFile]
+#[BeginFile]SOURCE := "\\mainTrava.java" #[EndFile]
+#[BeginFile]SOURCE := "\\mainPonto.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Reta.java" #[EndFile]
+#[BeginFile]SOURCE := "\\mainReta.java" #[EndFile]
+#[EndFolder]

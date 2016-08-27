@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "Fracoes", "Fracoes.vjp", "{7C3ACD6A-B21E-4DA4-922B-67150377BC4F}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {7C3ACD6A-B21E-4DA4-922B-67150377BC4F}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {7C3ACD6A-B21E-4DA4-922B-67150377BC4F}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
