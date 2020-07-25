@@ -1,0 +1,43 @@
+
+[Se estiver no Notepad escolha Editar / Quebra automática de linha]
+
+EQUIPE (POR ORDEM ALFABETICA):
+
+* Marcius
+* Monteiro
+* Neto
+* Riam
+
+Máquina usada deve ter pelo menos o JDK 1.3.1 e o JCreator (esse apenas para facilitar).
+
+Para executar o jogo:
+
+1. Abrir o arquivo Memoria.jcw com o JCreator
+2. No JCreator, dar um duplo clique na classe JMemoria.java até que seu texto apareça
+3. Pressionar F7 para compilar o programa
+3. Clicar no botão Execute File no JCreator
+
+IMPORTANTÍSSIMO!
+
+Para que as imagens apareçam, elas devem ser copiadas para a pasta onde os fontes JAVA serão compilados (que está definida em Output path no menu Project / Project Settings do JCreator)
+
+A fase Avançada (do jogo) recomenda uma resolução de 1024x768
+
+
+******
+
+DEFINIÇÃO DAS CLASSES
+=====================
+
+ * 1o. JMemoria (essa classe, é a inicial do programa)
+ * 2o. Carta    (é a classe que define o objeto Carta, pois um
+ *               Jogo da Memória é feito de várias cartas).
+ * 3o. Memoria  (É a classe que pede parâmetros dos usuários,
+ *               como o Nome e a Fase).
+ * 4o. Jogo     (É a classe responsável pela atribuição das imagens,
+ *               gerenciamento dos cliques, pelas regras do 
+ *               jogo, etc.).
+
+
+
+Equipe

@@ -1,0 +1,4 @@
+C:\WINDOWS\Desktop\Mem\Memoria\Memoria.java
+C:\WINDOWS\Desktop\Mem\Memoria\Jogo.java
+C:\WINDOWS\Desktop\Mem\Memoria\JMemoria.java
+C:\WINDOWS\Desktop\Mem\Memoria\Carta.java
